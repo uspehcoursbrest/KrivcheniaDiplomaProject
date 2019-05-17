@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FeedInvest</title>
+</head>
+<body>
+<!--голова-->
+<header>
+    <div class="container">
+        <div class="connection">
+            <div class="left">
+                <div class="phoneNumber">
+                    <img src="" alt="">
+                    <a href=""></a>
+                    <img src="" alt="">
+                    <a href=""></a>
+                </div>
+                    <div class="item">
+                        <div class="social">
+                            <img src="" alt="">
+                            <img src="" alt="">
+                            <img src="" alt="">
+                            <img src="" alt="">
+                        </div>
+                        <div class="clock">
+                            <div class="time">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                            <div class="date">
+                                <span></span>
+                                <span></span>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+                <div class="logo">
+                    <img src="" alt="">
+                    <span></span>
+                </div>
+                <div class="right">
+                    <div class="linksItem">
+                        <img src="" alt="">
+                        <a href=""></a>
+                        <img src="" alt="">
+                        <a href=""></a>
+                    </div>
+                    <button>
+                        <img src="" alt="">
+                        <span></span>
+                    </button>
+                    <button>
+                        <img src="" alt="">
+                        <span></span>
+                    </button>
+                    <button>
+                        <img src="" alt="">
+                        <span></span>
+                    </button>
+                </div>
+            <ul class="menu">
+                <li>
+                    <a href=""></a>
+                </li>
+                <li>
+                    <a href=""></a>
+                </li>
+                <li>
+                    <a href=""></a>
+                </li>
+                <li>
+                    <a href=""></a>
+                </li>
+                <li>
+                    <a href=""></a>
+                </li>
+                <li>
+                    <a href=""></a>
+                </li>
+                <li>
+                    <a href=""></a>
+                </li>
+                <li>
+                    <a href=""></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</header>
+<div class="content">
+<!--преимущества-->
+    <div class="advantage">
+        <div class="container">
+            <div class="cooperation">
+                <div class="product">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <button>
+                    <span></span>
+                </button>
+        </div>
+            <div class="banner">
+                <div class="item">
+                    <img src="" alt="">
+                    <span></span>
+                    <span></span>
+                    <img src="" alt="">
+                    <span></span>
+                    <span></span>
+                    <img src="" alt="">
+                    <span></span>
+                    <span></span>
+                    <img src="" alt="">
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </div>
+<!--информация-->
+    <div class="information">
+        <div class="container">
+            <div class="left">
+                <div class="adv">
+                    <img src="" alt="">
+                    <span></span>
+                </div>
+                <div class="adv">
+                    <img src="" alt="">
+                    <span></span>
+                </div>
+            </div>
+            <img src="" alt="">
+            <div class="right">
+                <div class="adv">
+                    <img src="" alt="">
+                    <span></span>
+                </div>
+                <div class="adv">
+                    <img src="" alt="">
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </div>
+<!--обо-->
+    <div class="about">
+        <div class="container">
+           <h2></h2>
+            <p></p>
+            <button>
+                <span></span>
+            </button>
+        </div>
+    </div>
+<!--лицензия-->
+    <div class="license">
+        <div class="container">
+          <div class="slider">
+              <video src="">
+              </video>
+          </div>
+            <button>
+                <span></span>
+            </button>
+        </div>
+    </div>
+<!--новости и отзывы-->
+    <div class="newReviews">
+        <div class="container">
+            <div class="item">
+                <span></span>
+                <div class="information">
+                    <img src="" alt="">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+            <div class="item">
+                <span></span>
+                <div class="information">
+                    <img src="" alt="">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--низ-->
+<footer>
+    <div class="container">
+        <div class="sponsors">
+            <ul class="left">
+                <li>
+                    <img src="" alt="">
+                </li>
+                <li>
+                    <img src="" alt="">
+                </li>
+                <li>
+                    <img src="" alt="">
+                </li>
+                <li>
+                    <img src="" alt="">
+                </li>
+                <li>
+                    <img src="" alt="">
+                </li>
+                <li>
+                    <img src="" alt="">
+                </li>
+            </ul>
+            <div class="logo">
+                <img src="" alt="">
+                <span></span>
+            </div>
+            <ul class="right">
+                <li>
+                    <img src="" alt="">
+                </li>
+                <li>
+                    <img src="" alt="">
+                </li>
+                <li>
+                    <img src="" alt="">
+                </li>
+                <li>
+                    <img src="" alt="">
+                </li>
+                <li>
+                    <img src="" alt="">
+                </li>
+                <li>
+                    <img src="" alt="">
+                </li>
+            </ul>
+        </div>
+        <div class="information">
+            <div class="left">
+                <ul class="menu">
+                    <li>
+                        <a href=""></a>
+                    </li>
+                    <li>
+                        <a href=""></a>
+                    </li>
+                    <li>
+                        <a href=""></a>
+                    </li>
+                    <li>
+                        <a href=""></a>
+                    </li>
+                    <li>
+                        <a href=""></a>
+                    </li>
+                    <li>
+                        <a href=""></a>
+                    </li>
+                    <li>
+                        <a href=""></a>
+                    </li>
+                    <li>
+                        <a href=""></a>
+                    </li>
+                </ul>
+                <div class="social">
+                    <img src="" alt="">
+                    <img src="" alt="">
+                    <img src="" alt="">
+                    <img src="" alt="">
+                </div>
+            </div>
+            <div class="right">
+                <div class="connection">
+                    <div class="top">
+                        <img src="" alt="">
+                        <a href=""><img src="" alt="">
+                            <a href=""></a>
+                        </a>
+                    </div>
+                    <div class="bottom">
+                        <img src="" alt="">
+                        <a href=""><img src="" alt="">
+                            <a href=""></a>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
