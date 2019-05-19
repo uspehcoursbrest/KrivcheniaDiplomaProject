@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>FeedInvest</title>
+    <link rel="stylesheet" href="fonts/stylesheet.css">
 </head>
 <body>
 <!--шапка-->
